@@ -1,0 +1,18 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Lista de cambios no controlados predeterminada",
+			"files": [
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/CW/EFA5B7DP519O2NVKRKDLRL.uasset",
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/ThirdPerson/Blueprints/BP_CameraManagment.uasset",
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/ThirdPerson/Blueprints/BP_Enemy.uasset",
+				"C:/Users/cris0/Documents/Unreal Projects/Videojuego_2_5D/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/6/PE/V0NEYP0SB6FSXVTKV83WQK.uasset"
+			]
+		}
+	]
+}
